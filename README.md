@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durgaprasad5076
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java ,python
 - 💞️ I’m looking to collaborate on new skills 
 - 😄 Pronouns: generate a random number between 1 to 100
 - ⚡ 
